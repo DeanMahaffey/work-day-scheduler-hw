@@ -15,7 +15,7 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background: linear-gradient(to right, rgb(245, 196, 107), rgb(144, 221, 247));
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
@@ -61,7 +61,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
+    background: linear-gradient(to right, rgb(104, 206, 240), rgb(6, 6, 216));
     color: white;
   }
   
